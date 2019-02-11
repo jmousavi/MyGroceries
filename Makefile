@@ -1,4 +1,4 @@
 all:
 	g++ -Wfatal-errors main.cpp
 clean:
-	rm *.out
+	rm a.out
